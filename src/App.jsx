@@ -19,19 +19,19 @@ export default (props) => (
         <h1>Tela criada para fundamentos de React /Praticando e testando.</h1>
 
         <div className="Cards">
-            <Card titulo="#11 - Tela Mega" color="#73503C">
+            <Card titulo="#11 - Tela mega (primeira)" color="#73503C">
                 <Mega qtdeNumero={8}></Mega>
             </Card>
-            <Card titulo="#10 - Tela Contador" color="#293E6A">
+            <Card titulo="#10 - Tela Contador (segunda)" color="#293E6A">
                 <Contador passo={10} valor={100}></Contador>
             </Card>
-            <Card titulo="#09 - Tela Input" color="#9C0F5F">
+            <Card titulo="#09 - Tela Input (terceira)" color="#9C0F5F">
                 <Input></Input>
             </Card>
-            <Card titulo="#08 - Tela Comunicação Indireta" color="#000">
+            <Card titulo="#08 - Tela Comunicação Indireta (quarta)" color="#000">
                 <Super></Super>
             </Card>
-            <Card titulo="#07 - Tela Comunicação Direta" color="#28ABE3">
+            <Card titulo="#07 - Tela Comunicação Direta (quinta)" color="#28ABE3">
                 <Pai sobrenome="Freitas"></Pai>
             </Card>
             <Card titulo="#06 - Tela Condicional v2" color="#FA6900">
@@ -40,7 +40,7 @@ export default (props) => (
             <Card titulo="#05 - Tela Condicional v1" color="#E94C6F">
                 <Condicional numero={11}></Condicional>
             </Card>
-            <Card titulo="#04 - Tela com Repetição" color="#008BBA">
+            <Card titulo="#04 - Tela com Produtos para vendas" color="#008BBA">
                 <Repeticao></Repeticao>
             </Card>
             <Card titulo="#03 - Tela Com Filhos" color="#D96459">
