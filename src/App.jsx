@@ -46,17 +46,17 @@ export default (props) => (
             <Card titulo="#03 - Tela Com Filhos" color="#D96459">
                 <ComFilhos>
                     <ul>
-                        <li>Roberta</li>
-                        <li>Beatriz</li>
-                        <li>José</li>
-                        <li>Daniel</li>
+                        <li>Roberta Melo</li>
+                        <li>Beatriz Amorim</li>
+                        <li>José Roberto</li>
+                        <li>Daniel Almeida</li>
                     </ul>
                 </ComFilhos>
             </Card>
-            <Card titulo="#02 - Tela Com Paramentro" color="#FF85CB">
+            <Card titulo="#02 - Componente Com Paramentro" color="#FF85CB">
                 <ComParamentro
-                    titulo="Esse é o título"
-                    subtitulo="Esse é o subtítulo"
+                    titulo="Projeto teste <= Título"
+                    subtitulo="Praticando teste para aprendizagem <= subtítulo"
                 />
             </Card>
             <Card titulo="#01 - Primeira tela" color="#92B06A">
