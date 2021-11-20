@@ -53,7 +53,7 @@ export default (props) => (
                     </ul>
                 </ComFilhos>
             </Card>
-            <Card titulo="#02 - Componente Com Paramentro" color="#FF85CB">
+            <Card titulo="#02 - Componente Com Título e subtítulo" color="#FF85CB">
                 <ComParamentro
                     titulo="Projeto teste <= Título"
                     subtitulo="Praticando teste para aprendizagem <= subtítulo"
