@@ -3,7 +3,7 @@ import Filho from './Filho'
 
 export default props =>
     <div>
-        <Filho {...props}><strong>João</strong></Filho>
-        <Filho sobrenome={props.sobrenome}>Maria</Filho>
-        <Filho sobrenome="Silva">Pedro</Filho>
+        <Filho {...props}><strong>Gold Life (Florianópolis)</strong></Filho>
+        <Filho sobrenome={props.sobrenome}>Residence Mall (Belo Horizonte)</Filho>
+        <Filho sobrenome="Salvador"> Life Roman </Filho>
     </div>

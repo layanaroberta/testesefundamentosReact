@@ -14,7 +14,7 @@ export default props => {
 
     return (
         <div>
-            <h2>Repetição</h2>
+            <h2>Imóveis próprios</h2>
             <ul>
                 {getProdutosListItem()}    
             </ul>
