@@ -2,13 +2,13 @@ body {
     font-family: Oswald;
     font-weight: 300;
     font-size: 1.4rem;
-    background-color: #444;
-    color: #fff;
+    background-color: rgb(151, 43, 43);
+    color: rgb(243, 241, 241);
     text-align: center;
 
-    background: #232526;
-    background: -webkit-linear-gradient(to right, #414345, #232526);  
-    background: linear-gradient(to right, #414345, #232526); 
+    background: #204557;
+    background: -webkit-linear-gradient(to right, #131618, #232526);  
+    background: linear-gradient(to right, #3571ad, #3a3b3b); 
 }
 
 h1, h2 {
