@@ -43,7 +43,7 @@ export default (props) => (
             <Card titulo="#04 - Patrimônio liquído até o presente momento" color="#008BBA">
                 <Repeticao></Repeticao>
             </Card>
-            <Card titulo="#03 - Tela Com Filhos" color="#D96459">
+            <Card titulo="#03 - Imóveis em análise para a realização de compra" color="#D96459">
                 <ComFilhos>
                     <ul>
                         <li>Sala comercial em Brasília</li>
