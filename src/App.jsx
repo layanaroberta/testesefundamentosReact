@@ -37,7 +37,7 @@ export default (props) => (
             <Card titulo="#06 - Tela Condicional v2" color="#FA6900">
                 <CondicionalComIf numero={10}></CondicionalComIf>
             </Card>
-            <Card titulo="#05 - Tela Condicional v1" color="#E94C6F">
+            <Card titulo="#05 - Tela de identificação do número" color="#E94C6F">
                 <Condicional numero={11}></Condicional>
             </Card>
             <Card titulo="#04 - Patrimônio liquído até o presente momento" color="#008BBA">
