@@ -20,13 +20,13 @@ export default (props) => (
 
         <div className="Cards">
             <Card titulo="#11 - Tela mega (primeira)" color="#73503C">
-                <Mega qtdeNumero={8}></Mega>
+            <Mega qtdeNumero={10}></Mega>
             </Card>
             <Card titulo="#10 - Tela Contador (segunda)" color="#293E6A">
-                <Contador passo={10} valor={100}></Contador>
+            <Contador passo={10} valor={90}></Contador>
             </Card>
             <Card titulo="#09 - Tela Input (terceira)" color="#9C0F5F">
-                <Input></Input>
+            <Input></Input>
             </Card>
             <Card titulo="#08 - Tela Comunicação Indireta (quarta)" color="#000">
                 <Super></Super>
@@ -46,20 +46,20 @@ export default (props) => (
             <Card titulo="#03 - Tela Com Filhos" color="#D96459">
                 <ComFilhos>
                     <ul>
-                        <li>Roberta Melo</li>
-                        <li>Beatriz Amorim</li>
-                        <li>José Roberto</li>
-                        <li>Daniel Almeida</li>
+                        <li>Sala comercial em Brasília</li>
+                        <li>Caferia em São Paulo</li>
+                        <li>Pub no Rio de Jeneiro</li>
+                        <li>Starbuks em Maceió-Al</li>
                     </ul>
                 </ComFilhos>
             </Card>
-            <Card titulo="#02 - Componente Com Título e subtítulo" color="#FF85CB">
+            <Card titulo="#02 - Sobre o projeto:" color="#FF85CB">
                 <ComParamentro
-                    titulo="Projeto teste <= Título"
-                    subtitulo="Praticando teste para aprendizagem <= subtítulo"
+                    titulo="Projeto da minha carreira de investidora."
+                    subtitulo="Neste projeto apresentarei todo o levantamento dos meus imóveis próprios, imóveis para futuras compras, lançamentos e toda a renda que está sendo investida e também seus lucros obtidos.  <= Resumo"
                 />
             </Card>
-            <Card titulo="#01 - Primeira tela" color="#92B06A">
+            <Card titulo="#01 - Seja bem vindo!" color="#6495ed">
                 <Primeiro />
             </Card>
         </div>
