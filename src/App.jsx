@@ -16,7 +16,7 @@ import Mega from './components/mega/Mega'
 
 export default (props) => (
     <div className="App">
-        <h1>Tela criada para fundamentos de React /Praticando e testando.</h1>
+        <h1>Tela criada para fundamentos de React /Praticando fazendo alterações e testando.</h1>
 
         <div className="Cards">
             <Card titulo="#11 - Tela mega (primeira)" color="#73503C">
@@ -40,7 +40,7 @@ export default (props) => (
             <Card titulo="#05 - Tela Condicional v1" color="#E94C6F">
                 <Condicional numero={11}></Condicional>
             </Card>
-            <Card titulo="#04 - Tela com Produtos para vendas" color="#008BBA">
+            <Card titulo="#04 - Patrimônio liquído até o presente momento" color="#008BBA">
                 <Repeticao></Repeticao>
             </Card>
             <Card titulo="#03 - Tela Com Filhos" color="#D96459">
